@@ -4,7 +4,7 @@
 
 ## Comet-ME Case Study
 
-[Comet-ME](https://comet-me.org/) (Community, Energy and Technology in the Middle East), a aon-governmental organization (NGO) that designs, builds, installs, and maintains off-grid renewable energy systems in rural areas of the occupied Palestinian territories.
+[Comet-ME](https://comet-me.org/) (Community, Energy and Technology in the Middle East), a non-governmental organization (NGO) that designs, builds, installs, and maintains off-grid renewable energy systems in rural areas of the occupied Palestinian territories.
 
 ### Design Requirements
 
